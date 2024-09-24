@@ -1,15 +1,8 @@
-[<<img вернуться на главную](./readme.md)
-
-  <style>
-   .rightimg  {
-    float: right;
-    margin: 7px 0 7px 7px;
-   }
-  </style>
+[<< вернуться на главную](./readme.md)
 
 ## Что такое ветки и зачем они нужны
 
-<img src="./assets/git-icon.svg" class="rightimg"></img>
+<img align="right" width="200px" height="200px" src="./assets/git-icon.svg"></img>
 
 **Ветвление** в Git - один из базовых и основополагающих инструментов.
 
